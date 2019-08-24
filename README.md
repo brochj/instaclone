@@ -1,3 +1,6 @@
+## Based on this video 
+### [Recriando Feed do Instagram COMPLETO com React Native](https://www.youtube.com/watch?v=2nXsLpUCO20)
+
 ## Utilizando
 
 #### 1. instalar as dependencias
